@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #Mysql database credentials 
 
 db_user="root"
